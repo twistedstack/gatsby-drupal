@@ -7,7 +7,7 @@ This project combines the power of Drupal, a robust and flexible content managem
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](ss.png)
 
 
 ## Tech Stack
