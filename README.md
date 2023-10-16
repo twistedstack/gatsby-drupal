@@ -11,15 +11,12 @@ This project combines the power of Drupal, a robust and flexible content managem
 
 
 ## Demo
-    COMING SOON
+    [twisted-gatsby-drupal.netlify.app]([https://www.github.com/twistedstack](https://twisted-gatsby-drupal.netlify.app/))
 
 
 ## Tech Stack
 
-**Client:** 
-
-**Server:** 
-
+Built with JavaScript, React, and GraphQL.
 
 ## Features
 
